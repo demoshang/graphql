@@ -39,6 +39,7 @@
     "typescript": "3.7.3"
   },
   "dependencies": {
+    "@ts-morph/main": "github:demoshang/ts-morph",
     "@types/graphql": "14.2.3",
     "chokidar": "3.3.1",
     "fast-glob": "github:demoshang/fast-glob",
@@ -46,7 +47,7 @@
     "lodash": "4.17.15",
     "merge-graphql-schemas": "1.7.3",
     "normalize-path": "3.0.0",
-    "ts-morph": "5.0.0",
+    "ts-morph": "github:demoshang/ts-morph#main",
     "uuid": "3.3.3"
   },
   "peerDependencies": {
